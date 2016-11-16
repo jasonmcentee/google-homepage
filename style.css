@@ -1,0 +1,127 @@
+body {
+	font-family: arial;
+	background-color: #fff;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+	font-size: small;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+nav {
+	padding: 5px 15px;
+	float: right;
+}
+
+nav div {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+nav div a {
+	padding-left: 12px;
+}
+
+nav div a img {
+	vertical-align: middle;
+}
+
+#words {
+		opacity: .75;
+}
+
+#logo {
+	clear: both;
+	padding-top: 130px;
+	width: 250px;
+}
+
+#logo, input, #buttons {
+	display: block;
+	margin: auto;
+}
+
+form {
+	padding-top: 30px;
+}
+
+input {
+	border: 1px solid rgb(198,198,198);
+	width: 437px;
+	height: 35px;
+	background-image: url(images/mic.png);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+#buttons {
+	padding-top: 30px;
+	width: 250px;
+}
+
+#gs {
+	float: left;
+	width: 114px;
+}
+
+#fl {
+	float: right;
+	width: 130px;
+}
+
+button {
+	height: 33px;
+	display: inline-block;
+	background-color: #f2f2f2;
+	border: none;
+	font-weight: bold;
+	color: #757575;
+	font-size: 12px;
+}
+
+button:hover {
+	border: 1px solid black;
+	color: black;
+}
+
+footer {
+	background-color: #f2f2f2;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 40px;
+	border-top: 1px solid #e4e4e4;
+}
+
+footer div {
+		display: inline-block;
+		padding: 10px 20px 0px 20px;
+}
+
+footer div a {
+			color: #666;
+			font-size: small;
+			padding: 0px 10px 0px 10px;
+}
+
+#l {
+	float: left;
+}
+
+#r {
+	float: right;
+}
+
+
+
+
+
+
+
+
